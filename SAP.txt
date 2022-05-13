@@ -1,0 +1,22 @@
+ERP :- 
+	Enterprise Resource Planning
+	Integration of Business Process
+	Standardising of system across locations
+	Better and overall control of an Organization.
+	Better reporting system (Consolidate database).
+Products: SAP, Oracle, BAAN, People Soft, JD Edwards, Marshall etc.
+
+SAP:-
+	System Applications and products in data processing.
+	60% market usage.
+	SAP R/3 system is a system software package used to integrate all the areas of a business.
+	One common database(consolidated).
+Modules: Functional, Technical, Techno-functional
+
+Functional - Financial accounting, Costing/Controlling, Sales&Distribution, Material Management(Procurement to pay),
+	     Production Planning, Quality Management, Customer Relationship Management (CRM), Human Resources etc.
+Technical - Netweaver/BASIS(Installation/Monitoring), ABAP(Programming), BI/BW (Reporting), HANA etc. 
+
+Organization - Company's enterprise structure mapped to SAP application using SAP organizational elements.
+Master Data - Created centerly available to all applications and authorized users.
+Transaction - application program that executes business process in the SAP system. 
